@@ -1,0 +1,8 @@
+1)Bed(King_Size)
+2)Bed(Single_size)
+3)Sofa(Single)
+4)Sofa(Double)
+5)Chair(Plastic)
+6)Chair(Wooden)
+7)Table(square)
+8)Table(Round)
